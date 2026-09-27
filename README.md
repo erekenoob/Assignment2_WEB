@@ -10,7 +10,7 @@
   A menu featuring classic espresso drinks. I used Flexbox to align the cards in a neat row and added a smooth hover effect so they pop up when you move your mouse over them.
 
 * **About Us (task2.html) - Task 2:** 
-  This page uses `grid-template-areas` to create a structured layout with a Header, Sidebar, Main Content, and Footer. Everything stays perfectly in its place.
+  This page uses grid-template-areas to create a structured layout with a Header, Sidebar, Main Content, and Footer. Everything stays perfectly in its place.
 
 * **Gallery (task3.html) - Task 3:** 
   A 9-image photo gallery. I set it up using CSS Grid (3 columns). If you hover over the pictures, a dark overlay with the image title slides up.
